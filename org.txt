@@ -1,0 +1,3 @@
+客户代码 客户名称 客户邮箱 客户账号 客户密码
+A testa 35257286@qq.com testa testapassword
+B testb 35257286@qq.com testb testpassword
